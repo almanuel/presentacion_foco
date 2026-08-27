@@ -1,0 +1,15 @@
+# Local Codex workspace and generated design-search output
+.codex/
+.agents/
+design-system/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Local previews, exports, and caches
+dist/
+.cache/
+*.log
